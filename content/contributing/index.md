@@ -40,7 +40,9 @@ from additional validation.
 For a simple option, you can upload your work to the development discord. Start by downloading the latest
 [areas.wotw](https://github.com/ori-community/wotw-seedgen/blob/dev/wotw_seedgen/areas.wotw). Please download
 the latest version from scratch everytime you start a new piece of work. If you work on an outdated version,
-we might not be able to merge your changes in easily.
+we might not be able to merge your changes in easily. After downloading the file, mention in the discord that
+you have downloaded it just now and will start making your changes. This can be very important later because
+it tells us which version of the file you based your work on.
 
 Once you're done with whatever you wanted to do, upload the changed file to the discord and we will merge it
 with any other changes that may have happened in the meantime.

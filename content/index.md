@@ -3,9 +3,12 @@ title: Ori WotW Randomizer Logic Documentation
 sidebarTitle: Home
 ---
 
-Welcome to the Logic Docs!
+![:orihi:](/media/orihi.png){:height=48}
 
-These pages document how you can read and write the logic syntax that backs seed generation.  
-If you don't have previous experience writing or reading randomizer logic, it is recommended to start with [The Basics](/the-basics)
+These pages document how you can read and write logic syntax (this stuff here: [areas.wotw](https://github.com/ori-community/wotw-seedgen/blob/main/wotw_seedgen/areas.wotw){:target="_blank"}).
 
-Were you looking for the randomizer Wiki? [wiki.orirando.com](https://wiki.orirando.com)
+For an introduction to the concept of randomizer logic in general, visit [The Basics](/the-basics).  
+To learn about our workflow and how you can help, visit [Contributing](/contributing).  
+For a comprehensive documentation of the syntax, visit [Syntax](/syntax).
+
+For information about other aspects of the randomizer, visit [wiki.orirando.com](https://wiki.orirando.com).

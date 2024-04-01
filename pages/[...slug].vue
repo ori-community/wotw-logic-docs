@@ -61,7 +61,7 @@ const links = computed(() => {
         link.children ? [link, ...flattenLinks(link.children)] : link
       );
 
-    return flattenLinks(article.value.body.toc.links);
+    return flattenLinks(article.value.body?.toc?.links || []);
   } else {
     return [];
   }

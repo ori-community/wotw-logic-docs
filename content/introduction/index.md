@@ -21,7 +21,7 @@ that can get you there. It's unreasonable to try and figure them all out in your
 have to write down the requirements for each spawn separately
 
 To solve this problem, randomizers usually document requirements in small steps, we call them
-"**connections**". Each connection goes from one point of the map to another, usually a nearby one. We
+"**connections**" or "**paths**". Each connection goes from one point of the map to another, usually a nearby one. We
 call these points on the map "**anchors**". Once we are near a pickup location, we write another small
 connection to there. With this approach, the seed generator can use all these small connections in
 sequence to determine the total requirements of getting any pickup location. Additionally, every anchor
